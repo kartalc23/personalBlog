@@ -1,33 +1,17 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
-    <title>yazı</title>
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="" />
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css"
-        integrity="sha512-DD6Lm09YDHzhW3K4eLJ9Y7sFrBwtCF+KuSWOLYFqKsZ6RX4ifCu9vWqM4R+Uy++aBWe6wD4csgQRzGKp5vP6tg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-
-    <!-- Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>public/js/css/bootstrap.min.css" />
-
-
-    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>public/css/style.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>public/css/custom.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>public/css/welcome.css" />
-    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+<meta charset="utf-8"/>
+<link rel="apple-touch-icon" sizes="76x76" href="<?php echo URL;?>public/img/favicon.ico">
+<link rel="icon" type="image/png" href="<?php echo URL;?>public/img/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<title>Mundana Template by WowThemesNet</title>
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport'/>
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Source+Sans+Pro:400,600,700" rel="stylesheet">
+<!-- Font Awesome Icons -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<!-- Main CSS -->
+<link href="<?php echo URL;?>public/css/main.css" rel="stylesheet"/>
 </head>
-
 <body>
